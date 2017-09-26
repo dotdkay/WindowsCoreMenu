@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type='text/xsl' href='style.xsl'?>
+<Menuitems>
+	<Menuitem>
+	<!--1. machine details-->
+	<Displayname>Control Panel</Displayname>
+	<Application>c:\windows\system32\control.exe</Application>
+	<Arguments></Arguments>
+	<Menulocation>RawContent</Menulocation>
+	</Menuitem>
+	<Menuitem>
+	<!--2. machine details-->
+	<Displayname>Software Center</Displayname>
+	<Application>ipconfig.exe</Application>
+	<Arguments></Arguments>
+	<Menulocation>RawContent</Menulocation>
+	</Menuitem>
+</Menuitems>	
+	
